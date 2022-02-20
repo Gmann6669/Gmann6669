@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Gmann6669
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋hi
+ Hi, I’m @Gmann6669
+- 👀 I’m interested in ...fun
+- 🌱 I’m currently learning ... everything I can
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ..
 
 <!---
 Gmann6669/Gmann6669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
